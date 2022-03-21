@@ -97,8 +97,8 @@
 <!-- TODO -->
 <!-- 
     I don't know... Do Hobby Stuff?
-    Coding Dojo Stuff here
-    Github Stuff
+    Coding Dojo Badges here
+    Github Badges
  -->
 
 
