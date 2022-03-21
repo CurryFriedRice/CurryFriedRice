@@ -12,7 +12,7 @@
 }
 </style>
 
-### Hi there 👋
+# Hi there 👋
 
 <!-- - 🔭 I’m currently working on A lot of different projects that include. 
 - 🌱 I’m currently learning Coding Dojo Coding bootcamp
@@ -38,6 +38,8 @@
 * **Name:** - Anthony Do
 * **Hobbies:** - [Games, Knitting, 3D Modeling/Animating] Ask me about them!
 * **Working on:** - Coding bootcamp
+
+<hr>
 
 <table>
   <tr>
