@@ -50,10 +50,10 @@
 
 <h2>Skills</h2>
 
-<img src=./Assets/img/Logos/png/CSharp.png alt="C Charp Logo"/><img src="./Assets/img/Logos/png/Github.png" alt="Github Logo"/>
-<img src="./Assets/img/Logos/png/Python.png" alt="Python Logo"/><img src="./Assets/img/Logos/png/React.png" alt="React Logo"/>
-<img src="./Assets/img/Logos/png/HTML_Badge.png" alt="HTML 5 Logo"/><img src="./Assets/img/Logos/png/Node.png" alt="Node JS Logo"/>
-<img src="./Assets/img/Logos/png/Mongo.png" alt="MongoDB Logo"/><img src="./Assets/img/Logos/png/Unity.png" alt="Unity Logo"/>
+<img src=./Assets/img/Logos/png/CSharp.png alt="C Charp Logo" height=64px/><img src="./Assets/img/Logos/png/Github.png" alt="Github Logo" height=64px/>
+<img src="./Assets/img/Logos/png/Python.png" alt="Python Logo" height=64px/><img src="./Assets/img/Logos/png/React.png" alt="React Logo" height=64px/>
+<img src="./Assets/img/Logos/png/HTML_Badge.png" alt="HTML 5 Logo" height=64px/><img src="./Assets/img/Logos/png/Node.png" alt="Node JS Logo" height=64px/>
+<img src="./Assets/img/Logos/png/Mongo.png" alt="MongoDB Logo" height=64px/><img src="./Assets/img/Logos/png/Unity.png" alt="Unity Logo" height=64px/>
 
 
 <hr>
