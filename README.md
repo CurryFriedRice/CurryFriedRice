@@ -48,7 +48,7 @@
   </tr>
 </table> 
 
-<h2>Skills</h2>
+<h2>Tech Skills</h2>
 
 <img src=./Assets/img/Logos/png/CSharp.png alt="C Charp Logo" height=64px/><img src="./Assets/img/Logos/png/Github.png" alt="Github Logo" height=64px/>
 <img src="./Assets/img/Logos/png/Python.png" alt="Python Logo" height=64px/><img src="./Assets/img/Logos/png/React.png" alt="React Logo" height=64px/>
