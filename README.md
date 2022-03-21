@@ -67,14 +67,14 @@
 </table> 
 
 <h2>Skills</h2>
-<img src="./assets/img/logos/CSharp.svg" alt="img text" style="width:64px"/> 
-<img src="./assets/img/logos/github.svg" alt="img text" style="width:64px"/>
-<img src="./assets/img/logos/Python.svg" alt="img text" style="width:64px"/>
-<img src="./assets/img/logos/react.svg" alt="img text" style="width:64px"/>
-<img src="./assets/img/logos/HTML_Badge.svg" alt="img text" style="width:72px"/>
-<img src="./assets/img/logos/Node.svg" alt="img text" style="width:96px"/>
-<img src="./assets/img/logos/Mongo.svg" alt="img text" style="width:172px"/>
-<img src="./assets/img/logos/Unity.svg" alt="img text" style="height:72px"/>
+<img src="./assets/img/logos/png/CSharp.png" alt="img text" style="width:64px"/> 
+<img src="./assets/img/logos/png/github.png" alt="img text" style="width:64px"/>
+<img src="./assets/img/logos/png/Python.png" alt="img text" style="width:64px"/>
+<img src="./assets/img/logos/png/react.png" alt="img text" style="width:64px"/>
+<img src="./assets/img/logos/png/HTML_Badge.png" alt="img text" style="width:64px"/>
+<img src="./assets/img/logos/png/Node.png" alt="img text" style="width:64px"/>
+<img src="./assets/img/logos/png/Mongo.png" alt="img text" style="width:64px"/>
+<img src="./assets/img/logos/png/Unity.png" alt="img text" style="height:64px"/>
 
 
 <hr>
