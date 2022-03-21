@@ -19,8 +19,8 @@
   <tr>
     <td style="width:50%">
       <ul>
-        <li> <b>Name:</b> Anthony Do</li>
-        <li> 🌱  I’m currently working on A lot of different projects that include. </li>
+        <li> 📛 <b>Name:</b> Anthony Do</li>
+        <li> 🌱 <b>Active Projects: </b></li>
             <ul>
                 <li>Learning Unity</li>
                 <li>Discord Sticker Chatbot</li>
