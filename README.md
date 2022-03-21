@@ -1,17 +1,3 @@
-
-<style>
-.heading1 {
-    color: red;
-    font-weight:700;
-    font-size: 35px;
-}
-.heading2 {
-    color: blue;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
 # Hi there 👋
 
 <!-- - 🔭 I’m currently working on A lot of different projects that include. 
@@ -67,14 +53,14 @@
 </table> 
 
 <h2>Skills</h2>
-<img src="./assets/img/logos/png/CSharp.png" alt="img text" style="width:64px"/> 
-<img src="./assets/img/logos/png/github.png" alt="img text" style="width:64px"/>
-<img src="./assets/img/logos/png/Python.png" alt="img text" style="width:64px"/>
-<img src="./assets/img/logos/png/react.png" alt="img text" style="width:64px"/>
-<img src="./assets/img/logos/png/HTML_Badge.png" alt="img text" style="width:64px"/>
-<img src="./assets/img/logos/png/Node.png" alt="img text" style="width:64px"/>
-<img src="./assets/img/logos/png/Mongo.png" alt="img text" style="width:64px"/>
-<img src="./assets/img/logos/png/Unity.png" alt="img text" style="height:64px"/>
+<img src="/assets/img/logos/png/CSharp.png" alt="img text" style="height:64px"/> 
+<img src="/assets/img/logos/png/github.png" alt="img text" style="height:64px"/>
+<img src="/assets/img/logos/png/Python.png" alt="img text" style="height:64px"/>
+<img src="/assets/img/logos/png/react.png" alt="img text" style="height:64px"/>
+<img src="/assets/img/logos/png/HTML_Badge.png" alt="img text" style="height:64px"/>
+<img src="/assets/img/logos/png/Node.png" alt="img text" style="height:64px"/>
+<img src="/assets/img/logos/png/Mongo.png" alt="img text" style="height:64px"/>
+<img src="/assets/img/logos/png/Unity.png" alt="img text" style="height:64px"/>
 
 
 <hr>
