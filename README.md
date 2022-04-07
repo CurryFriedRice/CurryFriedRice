@@ -81,7 +81,7 @@
 <table>
     <tr>
         <td width=50%>
-            <img src=./assets/img/messenger/Messaging_create_channel_splitMessage.gif alt="React Messaging Gif"style="width:500px">
+            <img src=./assets/img/messenger/Messaging_create_channel_messaging.gif alt="React Messaging Gif"style="width:500px">
         </td>
         <td width=50%>
             <p>A messaging web application so to explore the functionality of web sockets and events.<p>
