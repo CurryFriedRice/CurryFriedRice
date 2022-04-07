@@ -81,7 +81,7 @@
 <table>
     <tr>
         <td width=50%>
-            <img src=./assets/img/messenger/Messaging_create_channel_messaging.gif alt="React Messaging Gif"style="width:500px">
+            <img src=./Assets/img/messenger/Messaging_create_channel_messaging.gif alt="React Messaging Gif"style="width:500px">
         </td>
         <td width=50%>
             <p>A messaging web application so to explore the functionality of web sockets and events.<p>
@@ -103,7 +103,7 @@
             <p>This experience allows users to build a deck by searching card names with hotkeys to add and remove cards. </p>
         </td>
         <td width=50%>
-            <img src=./assets/img/Deckbuilder.gif alt="Deck Builder Gif"style="width:500px">
+            <img src=./Assets/img/Deckbuilder.gif alt="Deck Builder Gif"style="width:500px">
         </td>
     </tr>
 </table>
