@@ -93,7 +93,7 @@
 
 
 <h2>
-  <b>Master Duel Deck Builder | <a href="https://github.com/CurryFriedRice/masterduel_deckbuilder">Github</a> | <a>Live</a></b>  
+  <b>Master Duel Deck Builder | <a href="https://github.com/CurryFriedRice/masterduel_deckbuilder">Github</a> <!--| a>Live</a--></b>  
 </h2>
 <table>
     <tr>
