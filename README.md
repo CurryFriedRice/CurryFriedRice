@@ -33,7 +33,7 @@
             <li> Knitting </li> 
             <li> 3D Modeling/Animating </li>
             <li> Pixel Art </li>
-          </ul
+          </ul>
         </li>
         <li> 💬 How was your Day? </li>
         <li> 📫 <b>Want to reach out?</b> Hit me up with an email or direct message! </li>
