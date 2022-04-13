@@ -103,7 +103,7 @@
             <p>This experience allows users to build a deck by searching card names with hotkeys to add and remove cards. </p>
         </td>
         <td width=50%>
-            <img src=./Assets/img/Deckbuilder.gif alt="Deck Builder Gif"style="width:500px">
+            <img src=./Assets/img/masterduel/dashboard.gif alt="Deck Builder Gif"style="width:500px">
         </td>
     </tr>
 </table>
