@@ -37,7 +37,7 @@
         </li>
         <li> 💬 How was your Day? </li>
         <li> 📫 <b>Want to reach out?</b> Hit me up with an email or direct message! </li>
-        <li> 🗃 <a href="https://docs.google.com/document/d/1CgYNVYt498GzJb__-u_Hi5YXzTfqqRzYsvhpFHm6LaA/edit?usp=sharing"> My Fancy Resume! </a> </li>
+        <li> 🗃 <a href="https://drive.google.com/file/d/1AhOaKDtilNsdIj4Pp_Ue4G0mFfHXT2t7/view?usp=sharing"> My Fancy Resume! </a> </li>
     </td>
     <td style="width:50%">
         <img src=./Assets/img/ScrollingItem.gif style="width:500px"/>
