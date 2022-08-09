@@ -13,15 +13,17 @@ var merge = function (intervals) {
   let retVal = [];
   // for(let i = 0; i < sorted.length; i++)
   for (const interval of intervals) {
-    if (retVal.length == 0) retVal.push(interval);
-    else {
-      let currentRight = retVal[retVal.length - 1][1];
-      if (currentRight < interval[0]) retVal.push(interval);
+    if (retVal.length == 0) retVal.push(interval);  //if the retval length is 0 push the first one
+    else {                                          //otherwise figure out if it should be pushed
+      let currentRight = retVal[retVal.length - 1][1];  //the current Right = the last index's second digit
+      if (currentRight < interval[0]) retVal.push(interval); //If the right side is smaller than the first interval push that interval
       else if (currentRight <= interval[1]) {
-        // console.log("we need to merge");
-        retVal[retVal.length - 1][1] = interval[1];
+        // console.log("we need to merge"); 
+        retVal[retVal.length - 1][1] = interval[1]; //otherwise the return value needs to be updated to the new value
       }
     }
+
+    
   }
   // console.log(retVal)
   return retVal;
