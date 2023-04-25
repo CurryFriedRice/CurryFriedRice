@@ -62,7 +62,8 @@
 <p>* Not all live Links may work. If there are repo links that do not work let me know and I'll update them.</p>
 
 <h2>
-                <b><img src=./Assets/img/babybird.ico style="height:32px"/>Baby Bird | <a href="https://github.com/bdulude/twitter-baby-birding">Github</a> | <a href="http://penguin.recipes/">Live</a></b>
+                <b><img src=./Assets/img/babybird.ico style="height:32px"/>Baby Bird | <a href="https://github.com/bdulude/twitter-baby-birding">Github</a></b>
+<!--                   | <a href="http://penguin.recipes/">Live</a></b> -->
 </h2>
 <table>
     <tr>
