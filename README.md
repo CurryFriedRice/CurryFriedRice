@@ -2,10 +2,12 @@
 **CurryFriedRice/CurryFriedRice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on A lot of different projects that include. 
-- 🌱 I’m currently learning Coding Dojo Coding bootcamp
+- 🌱 I’m a Coding Dojo Coding Alumni
+- 🪟 I'm a Microsoft Leaper
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with finding work!
-- 💬 Ask me about React or C#
+- AI Dev
+- Game Dev in Unreal or Godot
+- 💬 Ask me about React, C# or Typescript
 - 📫 How to reach me: Hit me up with an email or direct message!
 - 😄 Pronouns: [He, Him, They, Them]
 - ⚡ Fun fact: 
@@ -22,10 +24,10 @@
         <li> 📛 <b>Name:</b> Anthony Do</li>
         <li> 🌱 <b>Active Projects: </b></li>
             <ul>
-                <li>Learning Unity</li>
-                <li>Discord Sticker Chatbot</li>
+                <li>Learning Godot & Unreal</li>
+                <li>Microsoft Sticker Keyboard</li>
             </ul>
-        <li> 🔭 I am currently Seeking Work! </li>
+        <li> 🔭  </li>
         <li> 🌽 <b>Interested In:</b> Augmented Reality, Virtual Reality, Game Development, Full Stack Development</li>
         <li> 🎮 <b>Hobbies:</b>
           <ul>
